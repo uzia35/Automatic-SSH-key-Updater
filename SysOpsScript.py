@@ -1,4 +1,4 @@
-import subprocess,sys,re,socket,os,shlex,csv
+import subprocess,sys,re,socket,os,csv
 
 # validition function to check ip addresess before changing keys#
 def valid_ip4_addr(ip):
@@ -38,7 +38,7 @@ if not valid_permission(key,keyPathLocal):
 for line in sys.stdin:
 	ip = re.sub('/s+','',line.strip('\n\r'))
 	if not valid_ip4_addr(ip):
-		print("ip is not in valid ip4 format " + ip)
+		print("ip is not in valid ip4 format \n" + ip)
 	#	continue
 	#   would skip over unvalid_ip4 addresses but I need my ipv6 for test purposes
 	scpCommand = "ssh-copy-id -i " + keyPathLocal + " " + ip 
@@ -52,6 +52,6 @@ for line in sys.stdin:
 	outputArr.append(re.sub('\n','\n,',output.lstrip('\n').rstrip('\n')))
 	process.wait() #waits for child process to end
 
-with open("output.csv", "wb") as myfile:
+with open("outputTestFile.csv", "wb") as myfile:
 	wr = csv.writer(myfile)
 	wr.writerow(outputArr)

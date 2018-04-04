@@ -1,0 +1,15 @@
+"localhost.localdomain
+,192.168.1.149 192.168.122.1 
+,-rw-------. 1 usmana usmana 806 Apr  4 02:16 /home/usmana/.ssh/authorized_keys
+,-rw-------. 1 usmana usmana 806 Apr  4 02:16 /home/usmana/.ssh/authorized_keys
+,-rw-------. 1 usmana usmana 806 Apr  4 02:16 /home/usmana/.ssh/authorized_keys
+,ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCmfjokNBYNwYrQpuaT0VMDEfiVkaYay0E68lUOaodYLW5qBzLiXxahMmjMDNrjtsjiy52siUoqaZ1Fe8XpGPcCXsAu//wZVHEd2kcXAENfAtusS2krM195OFL9f9Vf1K0wSc9A64BUfdi2OVWBVvpyEQ1QHLyvmKop9+dhuLtp0/fElzr0fafAe0povkmS+4lYXgZSIqJvBKOU+JPzdBYMj/HjmG3gPsx/o2ca/DNKABoN1b1XR0jFXSkJ+iEjVSbrBHjV9R9ivkfTTnmJptg1DPkoVBXNi/UB5mMP7gal8XJyEsxCUJRWiSJWPB/a29kPIM3kTDN1Y37iXiJXvjv uzia3@DESKTOP-V1S1D7R
+,ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCn87LiJQeMgzcR9CqCc4lYM/iIMmAeWE13xIu6TXu1822IUF6CqHK26bKE++WhBfaZQgVbZIIaJbYU2Jdl8qD5VlXvExBxFThaEPc1yGL1n/5OBERfQgBqhX/GXHxM3hQbgkqFD/nThFaFI89z0XGvXuQLy1CVa91U0h/luCqc6b4HgnQu5FXqR1ttzRtoVC9YcgXyIwOSS7/sZMhSMT2/tG8ls6xQSERTuDzsXg8nerhQ8ZCyjb+zzmQqShTeWkpSf1RBsoU0aANV8pV6F8YC/E/RYpc+in2xGJ970i6FUSANW3ZnUZo/YAWCO9WkYBXlh6SZPvVCPQ2mbV7rWUhJ uzia3@DESKTOP-V1S1D7R"
+
+"sumac.rlogin
+,192.168.5.105 192.168.122.1 2001:468:c80:2129:1:7072:8737:4e51 
+,-rw------- 1 usmana Majors 806 Apr  3 23:16 /home/ugrads/majors/usmana/.ssh/authorized_keys
+,-rw------- 1 usmana Majors 806 Apr  3 23:16 /home/ugrads/majors/usmana/.ssh/authorized_keys
+,-rw------- 1 usmana Majors 806 Apr  3 23:14 /home/ugrads/majors/usmana/.ssh/authorized_keys
+,ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCmfjokNBYNwYrQpuaT0VMDEfiVkaYay0E68lUOaodYLW5qBzLiXxahMmjMDNrjtsjiy52siUoqaZ1Fe8XpGPcCXsAu//wZVHEd2kcXAENfAtusS2krM195OFL9f9Vf1K0wSc9A64BUfdi2OVWBVvpyEQ1QHLyvmKop9+dhuLtp0/fElzr0fafAe0povkmS+4lYXgZSIqJvBKOU+JPzdBYMj/HjmG3gPsx/o2ca/DNKABoN1b1XR0jFXSkJ+iEjVSbrBHjV9R9ivkfTTnmJptg1DPkoVBXNi/UB5mMP7gal8XJyEsxCUJRWiSJWPB/a29kPIM3kTDN1Y37iXiJXvjv uzia3@DESKTOP-V1S1D7R
+,ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCn87LiJQeMgzcR9CqCc4lYM/iIMmAeWE13xIu6TXu1822IUF6CqHK26bKE++WhBfaZQgVbZIIaJbYU2Jdl8qD5VlXvExBxFThaEPc1yGL1n/5OBERfQgBqhX/GXHxM3hQbgkqFD/nThFaFI89z0XGvXuQLy1CVa91U0h/luCqc6b4HgnQu5FXqR1ttzRtoVC9YcgXyIwOSS7/sZMhSMT2/tG8ls6xQSERTuDzsXg8nerhQ8ZCyjb+zzmQqShTeWkpSf1RBsoU0aANV8pV6F8YC/E/RYpc+in2xGJ970i6FUSANW3ZnUZo/YAWCO9WkYBXlh6SZPvVCPQ2mbV7rWUhJ uzia3@DESKTOP-V1S1D7R"
