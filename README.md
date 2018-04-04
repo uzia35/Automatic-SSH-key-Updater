@@ -6,6 +6,9 @@ processing might take a while because of test Ips that cannot ssh,
 it is however, instantaneous when actual Ips are given,
 also the test servers that were used include my own virtual machine and rlogin.cs.vt.edu
 
+Possibly need to change permissions on authorized_key_exercise.pub to 400 or 600 before running this script,
+as this was tested using real dummy keys
+
 to run this script: python SysOpsScript.py < inputTestFile
 
 to run test cases: python -m unittest test_SysOpsScript < inputTestFile
