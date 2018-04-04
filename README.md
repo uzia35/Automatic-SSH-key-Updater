@@ -8,4 +8,4 @@ also the test servers that were used include my own virtual machine and rlogin.c
 
 to run this script: python SysOpsScript.py < inputTestFile
 
-test cases: python -m unittest test_SysOpsScript < inputTestFile
+to run test cases: python -m unittest test_SysOpsScript < inputTestFile
